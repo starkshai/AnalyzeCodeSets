@@ -163,4 +163,3 @@ plt.savefig('adc_simulation_v2_result.png', dpi=150, bbox_inches='tight')
 plt.close()
 
 print(f"\n图像已保存为: adc_simulation_v2_result.png")
-#（注：内容由AI生成）
